@@ -58,4 +58,4 @@ echo "启动后，请打开浏览器访问 http://localhost:8000 查看 WebSim �
 echo "Spot 会用摄像头识别物体并模拟动作，按 Ctrl+C 停止"
 sleep 3
 
-uv run src/run.py spot
+uv run src/run.py conversation
